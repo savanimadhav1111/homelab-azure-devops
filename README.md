@@ -21,3 +21,12 @@ Azure-first DevOps homelab building a production-style platform on a VM using Te
 
 **Next step (Day 2)**
 - Validate Azure fundamentals (resource group, VNet, NSG) and document the architecture baseline.
+
+## Day 2 (In Progress)
+- Checklist: `docs/daily/day02.md`
+- Concepts summary: `docs/azure-concepts-summary.md`
+
+**Status (2026-02-11)**
+- Confirmed default subscription and Canada Central region via Azure CLI.
+- Verified $50/month budget exists (`homelab-50`).
+- Created resource group `rg-homelab-devops` in `canadacentral`.
