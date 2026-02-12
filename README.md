@@ -35,3 +35,8 @@ Azure-first DevOps homelab building a production-style platform on a VM using Te
 - Checklist: `docs/daily/day03.md`
 - Notes: `docs/linux-ssh-notes.md`
 - Practiced key-based SSH to temporary Ubuntu VM (`vm-day3-ssh-temp`) and deallocated it after validation.
+
+## Day 4 (Completed - 2026-02-12)
+- Checklist: `docs/daily/day04.md`
+- Notes: `docs/networking-firewall-notes.md`
+- Validated networking basics (IP/CIDR/DNS), added NSG firewall rules, and verified port behavior (`22`/`8080`/`9090`).
