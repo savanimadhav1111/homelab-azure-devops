@@ -30,3 +30,8 @@ Azure-first DevOps homelab building a production-style platform on a VM using Te
 - Confirmed default subscription and Canada Central region via Azure CLI.
 - Verified $50/month budget exists (`homelab-50`).
 - Created resource group `rg-homelab-devops` in `canadacentral`.
+
+## Day 3 (Completed - 2026-02-12)
+- Checklist: `docs/daily/day03.md`
+- Notes: `docs/linux-ssh-notes.md`
+- Practiced key-based SSH to temporary Ubuntu VM (`vm-day3-ssh-temp`) and deallocated it after validation.
