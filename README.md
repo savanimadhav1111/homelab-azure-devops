@@ -45,3 +45,8 @@ Azure-first DevOps homelab building a production-style platform on a VM using Te
 - Checklist: `docs/daily/day05.md`
 - Notes: `docs/storage-notes.md`
 - Attached a data disk, formatted it with `ext4`, mounted to `/data/day5`, and persisted via `fstab` UUID entry.
+
+## Day 6 (Completed - 2026-02-12)
+- Checklist: `docs/daily/day06.md`
+- Notes: `docs/bash-scripting-notes.md`
+- Added and executed a Bash package bootstrap script with error handling, loops, and package-manager detection.
