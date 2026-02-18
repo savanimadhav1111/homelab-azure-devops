@@ -40,3 +40,8 @@ Azure-first DevOps homelab building a production-style platform on a VM using Te
 - Checklist: `docs/daily/day04.md`
 - Notes: `docs/networking-firewall-notes.md`
 - Validated networking basics (IP/CIDR/DNS), added NSG firewall rules, and verified port behavior (`22`/`8080`/`9090`).
+
+## Day 5 (Completed - 2026-02-12)
+- Checklist: `docs/daily/day05.md`
+- Notes: `docs/storage-notes.md`
+- Attached a data disk, formatted it with `ext4`, mounted to `/data/day5`, and persisted via `fstab` UUID entry.
