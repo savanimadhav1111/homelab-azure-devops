@@ -1,0 +1,6 @@
+# Terraform local artifacts
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan

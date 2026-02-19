@@ -50,3 +50,13 @@ Azure-first DevOps homelab building a production-style platform on a VM using Te
 - Checklist: `docs/daily/day06.md`
 - Notes: `docs/bash-scripting-notes.md`
 - Added and executed a Bash package bootstrap script with error handling, loops, and package-manager detection.
+
+## Day 7 (Completed - 2026-02-19)
+- Checklist: `docs/daily/day07.md`
+- Week 1 summary: `docs/weekly/week1-summary.md`
+- Published weekly review with 3 key learnings and one process improvement for next week.
+
+## Day 8 (Completed - 2026-02-19)
+- Checklist: `docs/daily/day08.md`
+- Notes: `docs/terraform-day8-notes.md`
+- Built Terraform foundation and applied first Terraform-managed Azure resource group.
